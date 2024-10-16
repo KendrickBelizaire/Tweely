@@ -24,7 +24,7 @@ It mimics core functionalities of Twitter, focusing on real-time user interactio
 
 # Getting Started 
 
-1. Clone the repository: git clone https://github.com/your-username/tweely.git
+1. Clone the repository: git clone https://github.com/kendrickbelizaire/tweely.git
 2. Navigate to the project folder: cd tweely
 3. Install dependencies: npm install / pip install -r requirements.txt
 4. Configure environment variables:
