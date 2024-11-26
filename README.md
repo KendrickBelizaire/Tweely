@@ -1,6 +1,4 @@
-Tweely is a simplified Twitter clone that allows users to post short messages (tweets),
-follow other users, and engage with content via likes and comments. 
-It mimics core functionalities of Twitter, focusing on real-time user interaction and content sharing.
+## Twitter Clone - Tweely
 
 # Overview
 Tweely is a simplified Twitter clone that allows users to post short messages (tweets),
